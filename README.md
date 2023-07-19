@@ -1,6 +1,4 @@
 # Lokuri Website
 
-> Fake cloud hosting website used in this [YouTube tutorial](https://www.youtube.com/watch?v=p0bGHP-PXD4)
-
-> Fake cloud hosting website [Live Preview](https://zen-carson-c10c9f.netlify.app)
+click here to go ---->  https://ghuu123.github.io/Cloud-hosting-website/
 # project-Fake-cloud-website
